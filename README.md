@@ -57,7 +57,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/hadolphmercogliano/hadolphmercogliano/output/snake.svg" alt="Snake animation" />
-
 ###
