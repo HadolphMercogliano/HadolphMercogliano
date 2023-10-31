@@ -19,9 +19,6 @@
   <a href="mailto:hadolph.mercogliano@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=#0d1117&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://codepen.io/Hadolph93" target="_blank">
-     <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Black-Large.png&logo=gmail&label=&color=D14836&logoColor=white&labelColor=#0d1117&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
